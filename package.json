@@ -2,7 +2,7 @@
   "name": "maturity_bot",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js", Maturity_Bot
+  "main": "bot.js", maturity_bot
   "scripts": {
     "start": "node bot.js"
   },
