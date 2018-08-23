@@ -1,14 +1,13 @@
 {
   "name": "maturity_bot",
+  "description": "Test",
   "version": "1.0.0",
-  "main": "index.js", Maturity_Bot
+  "main": "bot.js", Maturity_Bot
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "discord.js": "^11.3.2"
+  "discord.js": "11.3.2",
+    "reqeust": "2.81.0"
   }
 }
