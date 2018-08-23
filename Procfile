@@ -1,1 +1,1 @@
-worker: node bot.js Maturity_Bot
+worker: node index.js Maturity_Bot
